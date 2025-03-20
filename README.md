@@ -1,2 +1,2 @@
-# https-reventics.visualstudio.com-RevCode-
-https://reventics.visualstudio.com/RevCode/
+# RevCode_API
+RevCode_API
